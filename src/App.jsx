@@ -16,7 +16,7 @@
 // export default App;
 
 import React, { useContext } from 'react'
-import StudentCard from './components/studentCard';
+import StudentCard from './components/StudentCard';
 import Counter from './components/counter';
 import UserDetails from './components/UserDetails';
 import Pagination from "./components/Pagination";
