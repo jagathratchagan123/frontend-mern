@@ -17,7 +17,7 @@
 
 import React, { useContext } from 'react'
 import StudentCard from './components/StudentCard';
-import Counter from './components/counter';
+import Counter from './components/Counter';
 import UserDetails from './components/UserDetails';
 import Pagination from "./components/Pagination";
 import Footer from "./components/Footer";
