@@ -28,7 +28,7 @@ import Header from './components/Header';
 
 
 
-import { GlobalProvider } from './context/GlobalContext';
+import { GlobalProvider } from './Context/GlobalContext';
 const App=()=>{
 
   let firstName="Jhon";
